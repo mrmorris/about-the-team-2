@@ -1,2 +1,3 @@
 Favorite animal (domestic): dog
-Favorite animal (wile): elephant
+Favorite animal (wild): elephant
+Favorite board game: Monopoly
