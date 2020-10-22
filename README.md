@@ -1,4 +1,4 @@
 # The Team!
 
-* [Ryan Morris](./ryan-morris.md)
-* <--- Next team member
+- [Ryan Morris](./ryan-morris.md)
+- [Bharathi Muniswamy](./profile-info.md)
